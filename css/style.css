@@ -43,7 +43,6 @@ h4 {
 .container {
   width: 375px;
   height: 667px;
-  background-color: #FFFFFF;
 }
 
 .statusbar {
@@ -133,4 +132,11 @@ h4 {
   text-align: center;
   color: #F814C5;
   line-height: 15px;
+}
+
+.bottombar {
+  height: 60px;
+  background-color: white;
+  padding-top: 10px;
+  border-top: 0.75px solid #b4b4b4;
 }
